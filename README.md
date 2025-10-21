@@ -1,16 +1,53 @@
-# React + Vite
+🏢 Company Team Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple responsive webpage built using React + Vite that showcases a company's team members.
+It focuses on clean UI, modern design, and smooth responsiveness for all screen sizes.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Displays all team members with their names, roles, and photos
 
-## React Compiler
+Fully responsive layout for mobile, tablet, and desktop
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Built with React (frontend) and styled using modern CSS
 
-## Expanding the ESLint configuration
+Lightweight and fast — powered by Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Getting Started
+
+Clone the repository:
+
+git clone https://github.com/divi9696/frontend.git
+cd frontend
+
+
+Install dependencies:
+
+npm install
+
+
+Run the project locally:
+
+npm run dev
+
+
+Open your browser and go to:
+
+http://localhost:5173/
+
+📂 Project Structure
+frontend/
+├─ src/
+│  ├─ components/     # Reusable UI components
+│  ├─ assets/         # Images and icons
+│  ├─ App.jsx         # Main app file
+│  └─ main.jsx        # Entry point
+├─ public/             # Static files
+├─ package.json
+├─ vite.config.js
+└─ README.md
+
+🧑‍💼 Purpose
+
+This project serves as a frontend demo for displaying company team details.
+It can be extended to include additional sections like About, Projects, or Contact.
