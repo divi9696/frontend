@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Divya Dharshan ",
+    "role": "Frontend Developer",
+    "email": "divi@example.com",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jabez Bharath",
+    "role": "UI/UX Designer",
+    "email": "jabezjabs@example.com",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 3,
+    "name": "HariHaran",
+    "role": "Data Analyst",
+    "email": "hariharan@example.com",
+    "image": "https://randomuser.me/api/portraits/men/54.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dhanraj",
+    "role": "Project Manager",
+    "email": "dhanraj@example.com",
+    "image": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Antronic",
+    "role": "Backend Engineer",
+    "email": "antronic@example.com",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+  }
+]
